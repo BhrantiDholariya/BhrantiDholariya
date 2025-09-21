@@ -22,8 +22,10 @@ Hi there👋! I'm Bhranti Dholariya
 
 ---
 
-### 📊 GitHub Stats  
-![Bhranti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhrantiDholariya&show_icons=true&theme=radical)  
-
 ### 🔥 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhrantiDholariya&layout=compact&theme=radical)
+
+---
+
+### 📊 GitHub Stats  
+![Bhranti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhrantiDholariya&show_icons=true&theme=radical)  
