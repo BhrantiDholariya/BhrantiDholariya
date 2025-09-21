@@ -20,17 +20,16 @@ Hi there 👋 I'm Bhranti Dholariya
 
 <h3 align="center">🔧 Languages and Tools</h3>  
 <p align="center">
-  <img src="https://githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px"/>
-  <img src="https://githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"/>
-  <img src="https://githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px"/>
+   <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+   <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+   <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+   <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+   <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 </p>
 
-<h3 align="center">🔥Most Used Languages</h3>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhrantiDholariya&layout=compact&theme=radical"/>
 </p>
 
 <h3 align="center"> 📊 GitHub Stats</h3>  
-![Bhranti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhrantiDholariya&show_icons=true&theme=radical)  
+![Bhranti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhrantiDholariya&show_icons=true&theme=radical)
