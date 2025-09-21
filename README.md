@@ -4,7 +4,7 @@ Hi there👋! I'm Bhranti Dholariya
 
 - 🎓I am 3rd semester Diploma student in Computer Engineering at Government Polytechnic, Jamnagar.
 - 🌱 currently diving into Data Structures, Operating Systems, an RDBMS.
-- 📫 How to reach me: bdholariya2319@gmail.com or on [<img align="center" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/bhranti-dholariya-427232383/) 
+- 📫 How to reach me: bdholariya2319@gmail.com or on [LinkedIn](https://www.linkedin.com/in/bhranti-dholariya-427232383/)  
 
 ### 🌐 Connect with me  
 [<img align="center" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/bhranti-dholariya-427232383/)  
