@@ -18,7 +18,7 @@ Hi there 👋 I'm Bhranti Dholariya
 </a>
 </p>
 
-### 🛠 Languages and Tools  
+<h3 align="center">🔧 Languages and Tools</h3>  
 <p align="center">
   <img src="https://githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40px"/>
   <img src="https://githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px"/>
@@ -27,10 +27,10 @@ Hi there 👋 I'm Bhranti Dholariya
   <img src="https://githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px"/>
 </p>
 
-### 🔥 Most Used Languages  
+<h3 align="center">🔥Most Used Languages</h3>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhrantiDholariya&layout=compact&theme=radical"/>
 </p>
 
-### 📊 GitHub Stats  
+<h3 align="center"> 📊 GitHub Stats</h3>  
 ![Bhranti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhrantiDholariya&show_icons=true&theme=radical)  
