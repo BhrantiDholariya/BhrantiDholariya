@@ -1,4 +1,6 @@
-Hi there👋! I'm Bhranti Dholariya
+<h1 style="text-align:center; font-size:2.5em;">
+Hi there 👋 I'm Bhranti Dholariya
+</h1>
 
 🚀Aspiring developer passionate about coding, problem-solving, and innovation. 💻Exploring technology with curiosity and building a strong foundation in Tech field.
 
