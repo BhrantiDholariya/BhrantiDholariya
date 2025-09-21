@@ -11,7 +11,7 @@ Hi there 👋 I'm Bhranti Dholariya
 🔗 <a href="https://www.linkedin.com/in/bhranti-dholariya-4772383b/">LinkedIn</a>
 </p> 
 
-### 🌐 Connect with me  
+<h3 align="center">🌐 Connect with me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/bhranti-dholariya-4772383b/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
