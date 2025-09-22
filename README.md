@@ -16,16 +16,20 @@ Hi there 👋 I'm Bhranti Dholariya
 </a>
 </p>
 
-<h3 align="center">🔧 Languages and Tools</h3>  
-<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-<img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 24px; margin: 40px 0;">
+    <img src="URL_TO_C_LOGO" alt="C" height="48">
+    <img src="URL_TO_PYTHON_LOGO" alt="Python" height="48">
+    <img src="URL_TO_HTML5_LOGO" alt="HTML5" height="48">
+    <img src="URL_TO_CSS3_LOGO" alt="CSS3" height="48">
+    <img src="URL_TO_JS_LOGO" alt="JavaScript" height="48">
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhrantiDholariya&layout=compact&theme=radical"/>
 </p>
 
 <h3 align="center"> 📊 GitHub Stats</h3>  
-![Bhranti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhrantiDholariya&show_icons=true&theme=radical)
+<div style="text-align:center;">
+    <a href="![Bhranti's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhrantiDholariya&show_icons=true&theme=radical)" target="_blank" style="background: #24292F; color: #fff; padding: 10px 28px; border-radius: 6px; text-decoration: none; font-size: 18px; font-weight: 600;">
+    </a>
+</div>
