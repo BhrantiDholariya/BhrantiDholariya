@@ -17,15 +17,13 @@ Hi there 👋 I'm Bhranti Dholariya
 </p>
 
 <h3 align="center">🔧 Languages and Tools</h3>  
-<p align="center">
-   <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-   <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-   <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-   <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-   <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <br>
-  <br>
-</p>
+<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+<img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+<img align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhrantiDholariya&layout=compact&theme=radical"/>
