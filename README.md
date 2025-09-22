@@ -2,14 +2,13 @@
 Hi there 👋 I'm Bhranti Dholariya
 </h1>
 
+🚀 Aspiring developer passionate about coding, problem-solving, and innovation.🌟 Exploring technology with curiosity and building a strong foundation in the tech field.<br>
+
 <p align="center">
-🚀 Aspiring developer passionate about coding, problem-solving, and innovation.<br>
-🌟 Exploring technology with curiosity and building a strong foundation in the tech field.<br>
-💻 3rd semester Diploma student in Computer Engineering at Government Polytechnic, Jamnagar.<br>
-🔍 Diving into Data Structures, Operating Systems, and RDBMS.<br>
-📧 Reach me: bhrantidholariya3219@gmail.com<br>
-🔗 <a href="https://www.linkedin.com/in/bhranti-dholariya-4772383b/">LinkedIn</a>
-</p> 
+-💻 3rd semester Diploma student in Computer Engineering at Government Polytechnic, Jamnagar.<br>
+-🔍 Diving into Data Structures, Operating Systems, and RDBMS.<br>
+-### 📫 How to reach me : bdholariya2319@gmail.com or on 
+[LinkedIn](https://www.linkedin.com/in/bhranti-dholariya-427232383/)
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
