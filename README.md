@@ -32,5 +32,5 @@ Hi there 👋 I'm Bhranti Dholariya
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhrantiDholariya&show_icons=true&theme=tokyonight" />
 </p>
