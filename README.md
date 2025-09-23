@@ -17,11 +17,16 @@ Hi there 👋 I'm Bhranti Dholariya
 </p>
 
 <h3 align="center">🔧 Languages and Tools</h3>  
-<img align="center" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-<img align="center" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="center" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img align="center" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhrantiDholariya&layout=compact&theme=radical"/>
