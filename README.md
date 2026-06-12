@@ -18,7 +18,7 @@
 
 ##  About Me
 
-- 🎓 **Diploma in Computer Engineering** — Government Polytechnic, Jamnagar *(CPI: 9.65)*
+- 🎓 **Diploma in Computer Engineering** — Government Polytechnic, Jamnagar
 - 🚀 **Co-Founder of Designova — a freelance web & content agency
 - 🤖 Deeply passionate about **Generative AI, Automation & Prompt Engineering** with hands-on experience across **50+ AI tools**
 - 🌱 Currently diving into **Machine Learning, Artificial Intelligence & Data Science**
